@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  name = "prod_sms_otp_march07"
+  org = "orgnilukaprodms"
+  version = "0.1.0"
+
